@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_showq3" value="name:qg3_id;datatype:int,name:qg3_name;datatype:string,name:qg3_detail;datatype:blob,name:qg3_fullscore;datatype:int" />
+	<infoitem key="UD_showqg3" value="name:q3_id;datatype:int,name:ref_qg3_id;datatype:int,name:ref_d_id;datatype:int,name:q3_number;datatype:int,name:q3_detail;datatype:blob,name:q3_score_rank;datatype:real" />
+	<infoitem key="UD_showdiv" value="name:d_id;datatype:int,name:d_name;datatype:string" />
+</info>

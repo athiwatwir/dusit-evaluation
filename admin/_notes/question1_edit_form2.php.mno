@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_editpo" value="name:qt_id;datatype:int,name:qt_name;datatype:string,name:qt_detail;datatype:blob" />
+	<infoitem key="UD_rsq" value="name:q1_id;datatype:int,name:ref_qt_id;datatype:int,name:q1_number;datatype:int,name:q1_socre_rank;datatype:string,name:q1_detail;datatype:blob,name:q1_datesave;datatype:timestamp" />
+</info>

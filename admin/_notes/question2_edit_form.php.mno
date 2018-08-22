@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_updateq2" value="name:qg2_id;datatype:int,name:qg2_name;datatype:string,name:qg2_detail;datatype:blob,name:qg2_fullscore;datatype:int,name:qg2_score_rank;datatype:real" />
+</info>

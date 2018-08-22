@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_editq2q" value="name:q2_id;datatype:int,name:ref_qg2_id;datatype:int,name:q2_number;datatype:int,name:q2_detail;datatype:blob,name:q2_score_rank;datatype:real" />
+</info>
